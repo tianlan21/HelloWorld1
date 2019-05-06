@@ -1,7 +1,2 @@
 aaa
 
-bbb
-
-ccc
-
-ddd
